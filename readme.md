@@ -162,13 +162,3 @@ Er = Boi × (Cf + Cw × Swi / (1 - Swi)) × (Pi - P)
 5. View the generated plot with OOIP value
 6. The slope of the regression line represents your OOIP in STB
 
-## Author
-
-**Siddharth Gorai**  
-
-- GitHub: [https://github.com/SiddharthGorai](https://github.com/SiddharthGorai)  
-- LinkedIn: [https://www.linkedin.com/in/siddharth-gorai-ab01a7254/](https://www.linkedin.com/in/siddharth-gorai-ab01a7254/i)  
-- Email: goraisiddharth@gmail.com
-
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
